@@ -1,0 +1,52 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-22-9 0:5:6",
+  "loopSlideshow" : 0,
+  "filename" : "flutter",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "flutter",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0",
+  "slideList" : [
+    "BBACE7FE-7C50-4B9F-8169-62BADA0C007D",
+    "7D643FA7-9A1F-45A5-A30F-7828735F3C35",
+    "E73E33E6-4839-48EF-8E89-8553ACCEB33F",
+    "CBF847ED-F5D1-4C80-AD3C-0742623B3647",
+    "E23DD454-4A1A-4279-82A2-2547F85BFF07",
+    "96E208F0-6F22-41C7-AD02-0E6D8A7F2E7F",
+    "F0A7F08D-73E3-481D-93BE-0825DC13AC9C",
+    "1510068B-D929-45AB-9058-9D42FC3572BE",
+    "0E9965F8-A653-4FA7-A5F6-0382F5E4EB0E",
+    "4DB22B8E-22A8-45D4-9AB2-8305A7214F3D",
+    "3544A059-D57B-4ECB-931D-226AFD0C41C1",
+    "2C8D5C58-2E9D-492F-808D-60C02815B97D",
+    "898322B9-9161-4460-A28A-9E26738D4622",
+    "3B1ED298-6EC2-48AE-915A-C8C0456EACB3",
+    "A5411A64-3765-498E-B6ED-A43FEA800C9D",
+    "C40FC0E9-7F7A-4FC1-ADAF-51A772A1A905"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1024,
+  "slideHeight" : 768,
+  "slideCount" : 16,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Monaco",
+    "Helvetica-Light",
+    "HelveticaNeue-Light",
+    "HelveticaNeue-Bold",
+    "HelveticaNeue",
+    "HelveticaNeue-Italic",
+    "Helvetica",
+    "HelveticaNeue-Thin",
+    "GillSans",
+    "HelveticaNeue-Medium",
+    "Georgia"
+  ]
+} )
